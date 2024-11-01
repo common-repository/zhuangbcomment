@@ -1,0 +1,35 @@
+/*
+for zhuangB  - . -
+AUTHOR URI: http://www.ll19.com/
+*/
+.zhuangbtext{ text-transform:uppercase;text-decoration: none;font-family: "Century Gothic", "Trebuchet MS";font-weight: normal; font-size: 14px; color:#CC0000;padding:0px; margin: 0px 10px 0px 10px;}
+.zhuangbtext sup{ color:#000000; font-size: 16px;}
+.zhuangbtext:hover {color:#000000;}
+.zhuangbtext:hover sup{color:#CC0000; text-decoration:underline;}
+.zhuangbdiv { padding: 3px 0px; margin: 7px 0px;margin-bottom: 5px; width:530px; border-bottom: 1px #C6C6C6 dotted;}
+
+.zhuangbWin {position:absolute;border: 1px solid #CED3D6;background: #FCFCFC;z-index: 1000; padding: 2px; display: none; width:200px; height:210px;}
+.zhuangbWin .zhuangbWin_form {position:absolute;overflow:hidden; text-transform:uppercase; margin-top: 5px; padding: 2px; font-family: Tahoma, Verdana; font-size: 10px; padding-left:10px;}
+.zhuangbWin .zhuangbWin_tit {height: 17px;overflow:hidden; border-bottom: #000000 dotted 1px; padding: 2px;}
+.zhuangbWin .zhuangbWin_tit span.zhuangbWin_title { text-transform:uppercase; color: #000;padding-left: 4px;overflow:hidden; font-family: Tahoma, Verdana; font-size: 10px;}
+.zhuangbWin .zhuangbWin_tit span.zhuangbWin_title_close  { text-transform:uppercase; font-family: Tahoma, Verdana; font-size: 10px;color: #000000;float:right; padding-right: 4px;}
+
+.zhuangbform { padding: 0; margin: 0;}
+.zhuangbform .responseText{font-size:12px; color:#CC0000; text-align:left; display:none;}
+.zhuangbform input {padding: 0; width: 90px; color: #000000; }
+.zhuangbform .zhuangbsubmit {width: 175px;text-transform:uppercase; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; color: #000000; padding: 1px;}
+.zhuangbform label {text-transform:uppercase; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;}
+.zhuangbform textarea {height: 50px; padding: 0; width: 175px; color: #000000; }
+.zhuangbform .formdiv {float:left; margin: 5px 10px 0 0;}
+
+.zhuangblist { padding: 0px; margin: 5px 0px 5px 5px; height: 139px; overflow:auto; width:520px; font-size:12px;text-transform:uppercase;}
+.zhuangblist .avatar {border: 1px solid #d3d3d3;background-color: #fff;padding: 1px;float: left;margin-bottom: 5px; margin-right: 10px;}
+.zhuangblist ol{text-align: justify; padding:0px; margin: 0px; margin-right: 10px; margin-bottom: 10px;}
+.zhuangblist h3{font-size:14px;border-bottom: 1px #C6C6C6 dotted; padding-bottom: 5px; padding-top: 0px; text-transform:uppercase; margin:0px;}
+.zhuangblist li {font: 1em 'Lucida Grande', Tahoma, Verdana, sans-serif;}
+.zhuangblist .reply {background: #FAFAFA;margin: 15px 0;padding: 10px;border: 1px solid #ECEEF0;list-style: none;}
+.zhuangblist .adminreply{background: #ECEEF0;margin: 15px 0;padding: 10px;border:1px solid #cdd1d1;list-style: none; color:#000000;}
+.zhuangblist cite   {font-style: normal;font-size: 14px; color:#314FA9;}
+.zhuangblist .commentcount {font-family: Georgia,sans-serif;font-size: 1.8em;font-weight: bold;color: #333333;float: right;}
+.zhuangblist .commentmetadata {border-bottom: 1px dotted #cdd1d1;padding-bottom: 5px; padding-top: 10px;display: block; color:#999999; margin-bottom: 5px;}
+.zhuangblist .admincommentcount {font-family: Georgia,sans-serif;font-size: 1.8em;font-weight: bold;color: #CC0000;float: right; border-bottom:1px dashed #CC0000;}
